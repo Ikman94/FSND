@@ -229,6 +229,7 @@ def create_app(test_config=None):
   one question at a time is displayed, the user is allowed to answer
   and shown whether they were correct or not. 
   '''
+  # Got the idea from: https://knowledge.udacity.com/questions/221899
   @app.route("/quizzes", methods=['POST'])
   def play_quiz_question():
         if request.data:
