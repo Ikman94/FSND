@@ -1,11 +1,4 @@
-## Full Stack Web Developer Nanodegree (nd0044 v2)
-This is the public repository for Udacity's Full-Stack Nanodegree program. Here, you can find starter-code the following projects:
-
-* *01_fyyur/starter_code* - This is the project from C1. SQL and Data Modeling for the Web
-* *02_trivia_api/starter* - This is the project from C2. API Development and Documentation
-* *03_coffee_shop_full_stack/starter_code* - This is the project from C3. Identity and Access Management
-* *capstone* - This is the final project of this Nanodegree.
-
-Feel free to suggest edits in the current repo by raising a PR.
+## A Trivia API APplication from the Full Stack Web Developer Nanodegree (nd0044 v2)
+Full Stack Trivia Udacity is invested in creating bonding experiences for its employees and students. A bunch of team members got the idea to hold trivia on a regular basis and created a webpage to manage the trivia app and play the game, but their API experience is limited and still needs to be built out. I built the remainin
 
 
